@@ -1,4 +1,4 @@
-# ST
+# Ja.js
 
 JSON Selector + Transformer
 
